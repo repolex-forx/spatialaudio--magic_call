@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "spatialaudio",
+  "repo": "magic_call",
+  "versions": [
+    {
+      "commit": "bcbf1f3997d5c66123a14a6cb17667d8f172507c",
+      "parsed_at": "2026-10-28T17:01:31.856463+00:00",
+      "filetree": "filetree/bcbf1f3997d5c66123a14a6cb17667d8f172507c.nq.gz",
+      "blobs": [
+        "blob/ca88124ecb5e808685d2b5eaddbd915f2354f5e5.nq.gz",
+        "blob/c723b64fad47afce79165a6ca9cd5ceb64c39b9a.nq.gz",
+        "blob/a8d15b8c5571d8d66eda1841a806818c16b3b3d1.nq.gz",
+        "blob/9dbe03d27359a12d0280f9c5ff1a44ed0c7e097b.nq.gz",
+        "blob/3c6e79cf31da1c0433d2fa666bf50b53f6359f26.nq.gz",
+        "blob/e91fd081501366035b9a4b856ef0d215a106cf69.nq.gz",
+        "blob/8ca1f543560cd402cb9922274d8102dccf97412a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/spatialaudio/magic_call",
+  "@type": "gh:Repository",
+  "gh:name": "magic_call",
+  "gh:owner": "spatialaudio",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/spatialaudio/magic_call/commit/bcbf1f3997d5c66123a14a6cb17667d8f172507c",
+      "git:hexsha": "bcbf1f3997d5c66123a14a6cb17667d8f172507c",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
