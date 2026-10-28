@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/magic_call/commit/bcbf1f3997d5c66123a14a6cb17667d8f172507c",
       "git:hexsha": "bcbf1f3997d5c66123a14a6cb17667d8f172507c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:04:55.646112+00:00"
     }
   ]
 }
